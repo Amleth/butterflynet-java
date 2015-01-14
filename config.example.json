@@ -1,0 +1,26 @@
+{
+  "consumerKey": "",
+  "consumerSecret": "",
+  "accessTokenKey": "",
+  "accessTokenSecret": "",
+  "host": "localhost",
+  "remotePath": "/home/amleth/butterflynet-java",
+  "user": "amleth",
+  "pass": "",
+  "track": [
+    "theoriedugenre",
+    "théoriedugenre",
+    "5oct",
+    "#genre",
+    "theorie du genre",
+    "théorie du genre",
+    "djendeur",
+    "5octobre",
+    "manifpourtous",
+    "manif pour tous",
+    "#gender",
+    "zizisexuel",
+    "stopadoptionpourtous",
+    "adoptionpourtous"
+  ]
+}
