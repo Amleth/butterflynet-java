@@ -3,10 +3,6 @@
   "consumerSecret": "",
   "accessTokenKey": "",
   "accessTokenSecret": "",
-  "host": "localhost",
-  "remotePath": "/home/amleth/butterflynet-java",
-  "user": "amleth",
-  "pass": "",
   "track": [
     "theoriedugenre",
     "théoriedugenre",
