@@ -88,7 +88,9 @@ public class Main {
                                 DBObject tweet = (DBObject) o;
 
                                 // Insert new tweet in "tweets" collection
-                                tweetsColl.insert(tweet);
+                                BasicDBObject dbObject = new BasicDBObject();
+                                dbObject.append("rawJson", tweet);
+                                tweetsColl.insert(dbObject);
 
                                 // Update "news" collection
                                 DBCursor cursor = newsColl.find(new BasicDBObject("id", 1));
